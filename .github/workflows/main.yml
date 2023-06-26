@@ -205,4 +205,8 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
+<<<<<<< HEAD
         message: Деплой taski успешно выполнен! 
+=======
+        message: taski has been deployed sucessfully
+>>>>>>> 944bdf2 (minor updates in workflow)
